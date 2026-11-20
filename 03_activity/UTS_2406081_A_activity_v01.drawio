@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e">
+    <diagram id="Qyz2TcCbHQUxNbk99pxd" name="Page-1">
+        <mxGraphModel dx="618" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="E5vEgQ9GoDJWLnNMDV56-3" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Peserta&amp;nbsp;" vertex="1">
+                    <mxGeometry height="310" width="230" x="70" y="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="E5vEgQ9GoDJWLnNMDV56-5" parent="E5vEgQ9GoDJWLnNMDV56-3" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+                    <mxGeometry height="40" width="120" x="30" y="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="E5vEgQ9GoDJWLnNMDV56-9" parent="E5vEgQ9GoDJWLnNMDV56-3" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+                    <mxGeometry height="40" width="120" x="30" y="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="E5vEgQ9GoDJWLnNMDV56-4" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem Pendaftaran" vertex="1">
+                    <mxGeometry height="310" width="220" x="300" y="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="E5vEgQ9GoDJWLnNMDV56-8" parent="E5vEgQ9GoDJWLnNMDV56-4" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+                    <mxGeometry height="40" width="120" x="50" y="120" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
