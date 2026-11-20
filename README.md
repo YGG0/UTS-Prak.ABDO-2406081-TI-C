@@ -1,5 +1,6 @@
 ```
 Nama: Rezha Achmad Muharam
-NIM: 
-Kelas: 
-Kode: 
+NIM: 2406081
+Kelas: C
+Kode: A
+```
